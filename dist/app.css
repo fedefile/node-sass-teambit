@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 80px;
+    width:80%;
+    margin: 0 auto;
+    border-bottom: 1px solid #4e3d1e;
+}
+
+.logo {
+    margin-top: 7px;
+    float: left;
+
+
+}
+
+.menu {
+    float: right;
+    margin-top: 12px;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+
+    margin-left: 17px;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #4e3d1e;
+    text-decoration: none;
+}
+button {
+    border-radius: 10px;
+    background: #30488f;
+    border-radius:
+}
+
+span {
+    color: white;
+    padding-right: 10px;
